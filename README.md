@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @acecochez (Ace Cochez).
-- 👀 I’m interested in climate-related projects.
+- 👀 Interested in climate-related projects.
 - ⚡ Knowledge in HTML, CSS, Nightwatch JavaScript & Python.
 - 🌱 Training as a Software Development Technician with Baltic Apprenticeships.
 - 🌳 Working as a Junior Developer Apprentice for 51toCarbonZero.
-- 📫 How to reach me: www.linkedin.com/in/ace-cochez-991aa7322
+- 📫 LinkedIn: www.linkedin.com/in/ace-cochez-991aa7322
 
 <!---
 acecochez/acecochez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
