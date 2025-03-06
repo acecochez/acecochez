@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @acecochez (Ace Cochez)
-- ⚡ Knowledge in JavaScript, TypeScript, Python, HTML & CSS
+- 👋 Hey, my name is Ace!
+- ⚡ Knowledge in JavaScript/TypeScript, Python, MySQL, HTML & CSS/SASS 
 - 👨‍💼 Junior Software Developer for 51toCarbonZero
 - 🌱 Training with Baltic Apprenticeships
 - 📫 LinkedIn: www.linkedin.com/in/acochez
